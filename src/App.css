@@ -1,0 +1,14 @@
+.delete {
+  color: red;
+  cursor: pointer;
+  font-size: 18px;
+}
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+button {
+  cursor: pointer;
+}

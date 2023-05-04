@@ -1,0 +1,17 @@
+body {
+  font-family: 'Space Mono', monospace;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+a {
+  font-family: 'Space Mono', monospace;
+}
+
+li {
+  list-style: none;
+}
